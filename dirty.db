@@ -52,3 +52,7 @@
 {"key":"pad:doc-10:revs:1","val":{"changeset":"Z:6d<6c|5-6c$","meta":{"author":"a.dV0R5UoTMYaw52xh","timestamp":1730098935101}}}
 {"key":"pad:doc-10","val":{"atext":{"text":"\n","attribs":"|1+1"},"pool":{"numToAttrib":{"0":["author","a.dV0R5UoTMYaw52xh"]},"nextNum":1},"head":1,"chatHead":-1,"publicStatus":false,"savedRevisions":[]}}
 {"key":"globalAuthor:a.dV0R5UoTMYaw52xh","val":{"colorId":44,"name":null,"timestamp":1730098935093,"padIDs":{"doc-1":1,"doc-10":1}}}
+{"key":"globalAuthor:a.dV0R5UoTMYaw52xh","val":{"colorId":44,"name":null,"timestamp":1730098935828,"padIDs":{"doc-1":1,"doc-10":1}}}
+{"key":"pad:doc-10:revs:2","val":{"changeset":"Z:1>1*0+1$A","meta":{"author":"a.dV0R5UoTMYaw52xh","timestamp":1730098935831}}}
+{"key":"pad:doc-10","val":{"atext":{"text":"A\n","attribs":"*0+1|1+1"},"pool":{"numToAttrib":{"0":["author","a.dV0R5UoTMYaw52xh"]},"nextNum":1},"head":2,"chatHead":-1,"publicStatus":false,"savedRevisions":[]}}
+{"key":"globalAuthor:a.dV0R5UoTMYaw52xh","val":{"colorId":44,"name":null,"timestamp":1730098935828,"padIDs":{"doc-1":1,"doc-10":1}}}
