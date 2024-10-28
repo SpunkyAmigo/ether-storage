@@ -72,3 +72,5 @@
 {"key":"pad:doc-10:revs:6","val":{"changeset":"Z:8>3=7*0+3$ocs","meta":{"author":"a.dV0R5UoTMYaw52xh","timestamp":1730098938190}}}
 {"key":"pad:doc-10","val":{"atext":{"text":"Apple docs\n","attribs":"*0+a|1+1"},"pool":{"numToAttrib":{"0":["author","a.dV0R5UoTMYaw52xh"]},"nextNum":1},"head":6,"chatHead":-1,"publicStatus":false,"savedRevisions":[]}}
 {"key":"globalAuthor:a.dV0R5UoTMYaw52xh","val":{"colorId":44,"name":null,"timestamp":1730098938184,"padIDs":{"doc-1":1,"doc-10":1}}}
+{"key":"sessionstorage:Rm_TvCMYU5Y8tWqcmZoLyeTtoEpcIQGp","val":{"cookie":{"originalMaxAge":864000000,"expires":"2024-11-07T07:08:55.580Z","secure":false,"httpOnly":true,"path":"/","sameSite":"Lax"},"connections":null}}
+{"key":"globalAuthor:a.dV0R5UoTMYaw52xh","val":{"colorId":44,"name":null,"timestamp":1730099335586,"padIDs":{"doc-1":1,"doc-10":1}}}
